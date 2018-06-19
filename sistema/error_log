@@ -1,0 +1,983 @@
+[10-Dec-2017 22:51:31 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'facturacion'@'localhost' (using password: YES) in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 14
+[10-Dec-2017 22:51:31 America/Mexico_City] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 15
+[10-Dec-2017 22:51:31 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 27
+[10-Dec-2017 22:51:34 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'facturacion'@'localhost' (using password: YES) in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 14
+[10-Dec-2017 22:51:34 America/Mexico_City] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 15
+[10-Dec-2017 22:51:34 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 27
+[10-Dec-2017 22:51:42 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'facturacion'@'localhost' (using password: YES) in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 14
+[10-Dec-2017 22:51:42 America/Mexico_City] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 15
+[10-Dec-2017 22:51:42 America/Mexico_City] PHP Fatal error:  Call to a member function query() on a non-object in /home/tdesyxwd/public_html/grupozego/config/conexion.php on line 27
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:56:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/modelos.php on line 82
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/modelos.php on line 84
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 157
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 159
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 326
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 336
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 326
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 336
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 326
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 336
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 326
+[10-Dec-2017 22:57:06 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 336
+[10-Dec-2017 23:02:53 America/Mexico_City] PHP Warning:  fopen(tdesyxwd_factura_prueba/logo.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1260
+[10-Dec-2017 23:02:53 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: tdesyxwd_factura_prueba/logo.png' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1262): FPDF->Error('Can't open imag...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsepng('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(569): FPDF->Image('tdesyxwd_factur...', 18, 13, 50)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('344', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[10-Dec-2017 23:03:31 America/Mexico_City] PHP Warning:  fopen(tdesyxwd_factura_prueba/logo.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1260
+[10-Dec-2017 23:03:31 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: tdesyxwd_factura_prueba/logo.png' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1262): FPDF->Error('Can't open imag...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsepng('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(569): FPDF->Image('tdesyxwd_factur...', 18, 13, 50)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('344', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 09:08:21 America/Mexico_City] PHP Notice:  Undefined index: usuario_nombre in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 263
+[11-Dec-2017 09:08:21 America/Mexico_City] PHP Notice:  Undefined index: usuario_nombre in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 263
+[11-Dec-2017 09:08:21 America/Mexico_City] PHP Notice:  Undefined index: usuario_nombre in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 263
+[11-Dec-2017 09:08:40 America/Mexico_City] PHP Warning:  Missing argument 6 for templates::genera_campos(), called in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 147 and defined in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 14
+[11-Dec-2017 09:08:40 America/Mexico_City] PHP Warning:  Missing argument 6 for templates::genera_campos(), called in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 147 and defined in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 14
+[11-Dec-2017 09:08:40 America/Mexico_City] PHP Warning:  Missing argument 6 for templates::genera_campos(), called in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 147 and defined in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 14
+[11-Dec-2017 09:08:40 America/Mexico_City] PHP Warning:  Missing argument 6 for templates::genera_campos(), called in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 147 and defined in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 14
+[11-Dec-2017 10:08:42 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[11-Dec-2017 10:08:42 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 88
+[11-Dec-2017 10:08:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/vista_base/option_selected.php on line 2
+[11-Dec-2017 10:36:28 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_session.php on line 25
+[11-Dec-2017 10:52:18 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_session.php on line 25
+[11-Dec-2017 11:01:51 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[11-Dec-2017 11:01:51 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[11-Dec-2017 11:03:04 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[11-Dec-2017 11:03:04 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[11-Dec-2017 11:04:06 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[11-Dec-2017 11:04:06 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[11-Dec-2017 11:35:31 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[11-Dec-2017 11:39:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[11-Dec-2017 11:39:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php on line 364
+[11-Dec-2017 11:41:54 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[11-Dec-2017 11:41:54 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[11-Dec-2017 11:43:07 America/Mexico_City] PHP Warning:  getimagesize(tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 11:43:07 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 11:46:38 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[11-Dec-2017 11:46:38 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[11-Dec-2017 11:52:37 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[11-Dec-2017 11:52:37 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php on line 364
+[11-Dec-2017 11:59:23 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[11-Dec-2017 12:01:22 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_37.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[11-Dec-2017 12:01:28 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:01:28 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:01:52 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:01:52 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:02:03 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:02:03 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:02:19 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:02:19 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:04:42 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:04:42 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:09:04 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:09:04 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:09:52 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:09:52 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:10:00 America/Mexico_City] PHP Notice:  Undefined index: cliente_id in /home/tdesyxwd/public_html/grupozego/views/cliente/paga_factura.php on line 95
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[11-Dec-2017 12:10:29 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_36.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[11-Dec-2017 12:10:32 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:10:32 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:10:36 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:10:36 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1067): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 12:26:50 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[11-Dec-2017 12:26:50 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[11-Dec-2017 17:25:21 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[12-Dec-2017 15:27:24 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:27:24 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:27:49 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:27:49 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_37.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('4', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:35:05 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:35:05 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:37:13 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:37:13 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:37:14 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:37:14 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:37:17 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:37:17 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(932): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(979): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:38:03 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:38:03 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_36.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(933): FPDF->Image('tdesyxwd_factur...', 15, 172, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(980): Controlador_Cliente->genera_pdf_factura('3', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:40:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[12-Dec-2017 15:40:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php on line 364
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[12-Dec-2017 15:40:31 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_40.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[12-Dec-2017 15:40:40 America/Mexico_City] PHP Notice:  getimagesize(): Read error! in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 1241
+[12-Dec-2017 15:40:40 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Missing or incorrect image file: tdesyxwd_factura_prueba/xml_timbrado/F_40.jpg' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1243): FPDF->Error('Missing or inco...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(886): FPDF->_parsejpg('tdesyxwd_factur...')
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(933): FPDF->Image('tdesyxwd_factur...', 15, 167, 30)
+#3 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(980): Controlador_Cliente->genera_pdf_factura('7', Object(PDF_HTML))
+#4 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->crea_pdf_factura()
+#5 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[12-Dec-2017 15:44:07 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[12-Dec-2017 15:44:07 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php on line 364
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[12-Dec-2017 15:44:11 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[12-Dec-2017 15:45:01 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 345
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 355
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 366
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 389
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 400
+[12-Dec-2017 15:48:19 America/Mexico_City] PHP Warning:  DOMDocument::load(): Document is empty in /home/tdesyxwd/public_html/grupozego/tdesyxwd_factura_prueba/xml_timbrado/F_41.xml, line: 1 in /home/tdesyxwd/public_html/grupozego/clases/facturas.php on line 377
+[12-Dec-2017 15:49:19 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[12-Dec-2017 16:43:37 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 16:43:37 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 16:50:28 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[12-Dec-2017 17:12:07 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:12:07 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 17:13:24 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:13:24 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 17:13:43 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:13:43 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 17:34:20 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_session.php on line 25
+[12-Dec-2017 17:47:40 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:47:40 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 17:48:02 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:48:02 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[12-Dec-2017 17:55:33 America/Mexico_City] PHP Fatal error:  Class 'controlador_insumo_impuesto_tipo_factor' not found in /home/tdesyxwd/public_html/grupozego/index.php on line 42
+[12-Dec-2017 17:57:59 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/asigna_cuenta_bancaria.php on line 66 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[12-Dec-2017 17:57:59 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 10:28:05 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1085): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:28:25 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1085): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:28:38 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1085): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:28:54 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1085): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:29:16 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1085): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:29:29 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1088): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:29:51 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1088): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:30:15 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1087): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:34:43 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1087): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:36:59 America/Mexico_City] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Some data has already been output, can't send PDF file' in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1064): FPDF->Error('Some data has a...')
+#1 /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php(1013): FPDF->_checkoutput()
+#2 /home/tdesyxwd/public_html/grupozego/controladores/controlador_cliente.php(1087): FPDF->Output('D', 'F_8018.pdf')
+#3 /home/tdesyxwd/public_html/grupozego/index.php(44): Controlador_Cliente->descarga_factura_pdf()
+#4 {main}
+  thrown in /home/tdesyxwd/public_html/grupozego/clases/fpdf/fpdf.php on line 271
+[13-Dec-2017 10:39:06 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[13-Dec-2017 10:39:16 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[13-Dec-2017 11:31:35 America/Mexico_City] PHP Notice:  Undefined index: seccion in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 11
+[13-Dec-2017 11:35:50 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:35:50 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:36:00 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:36:00 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:36:16 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:36:16 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:36:31 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:36:31 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:40:28 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:40:28 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:40:37 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:40:37 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:43:24 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:43:24 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:43:31 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:43:31 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:48:34 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:48:34 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:48:49 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:48:49 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:51:47 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:51:47 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:51:56 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:51:56 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:55:17 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:55:17 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:55:27 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:55:27 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:58:51 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:58:51 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 11:59:08 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 11:59:08 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:01:57 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:01:57 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:02:06 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:02:06 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:07:11 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:07:11 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:07:26 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:07:26 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:13:09 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:13:09 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:13:21 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:13:21 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:16:04 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:16:04 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:18:53 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:18:53 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:19:01 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:19:01 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:32:44 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:32:44 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 12:32:57 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 12:32:57 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 13:49:40 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/asigna_cuenta_bancaria.php on line 66 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 13:49:40 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[13-Dec-2017 16:46:43 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/carga_datos_cfdi.php on line 46 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[13-Dec-2017 16:46:43 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:12 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:13 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:18 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[14-Dec-2017 10:37:21 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/grupozego/modelos.php on line 106
+[14-Dec-2017 10:37:21 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/grupozego/controladores/controlador_base.php on line 165
+[14-Dec-2017 10:37:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/grupozego/views/templates.php on line 381
+[19-Dec-2017 17:32:28 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:32:28 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:32:54 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:32:54 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:34:24 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:34:24 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:35:11 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:35:11 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:35:36 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:35:36 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:38:37 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:38:37 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[19-Dec-2017 17:47:32 America/Mexico_City] PHP Warning:  Missing argument 2 for Directivas::btn_enviar(), called in /home/tdesyxwd/public_html/grupozego/views/cliente/persona_responsable_pago_cliente.php on line 54 and defined in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 54
+[19-Dec-2017 17:47:32 America/Mexico_City] PHP Notice:  Undefined variable: label in /home/tdesyxwd/public_html/grupozego/views/directivas/directivas.php on line 56
+[28-Dec-2017 16:10:27 America/Mexico_City] PHP Fatal error:  Call to undefined method Directivas::input_video() in /home/tdesyxwd/public_html/bcagro/sistema/views/video_index/alta.php on line 10
+[28-Dec-2017 16:15:42 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 16:17:45 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_session.php on line 25
+[28-Dec-2017 16:18:18 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_session.php on line 25
+[28-Dec-2017 16:18:48 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_session.php on line 25
+[28-Dec-2017 16:19:27 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_session.php on line 25
+[28-Dec-2017 16:21:12 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_session.php on line 25
+[28-Dec-2017 16:28:46 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 16:41:13 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 16:41:53 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:12:16 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 18:12:35 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:16:37 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 18:18:00 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 18:18:22 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:18:32 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:20:43 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:20:53 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[28-Dec-2017 18:37:48 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 18:38:31 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 173
+[28-Dec-2017 19:10:48 America/Mexico_City] PHP Fatal error:  Method name must be a string in /home/tdesyxwd/public_html/bcagro/sistema/index.php on line 42
+[04-Jan-2018 13:18:31 America/Mexico_City] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 251
+[20-Jan-2018 13:07:27 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/producto/archivos/Anual_Reygrass_295493.jpg): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[20-Jan-2018 13:07:27 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4rBiDT' to '/home/tdesyxwd/public_html/bcagro/sistema/views/producto/archivos/Anual_Reygrass_295493.jpg' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[20-Jan-2018 13:07:40 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/producto/archivos/Anual_Reygrass_414033.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[20-Jan-2018 13:07:40 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppBiFbs' to '/home/tdesyxwd/public_html/bcagro/sistema/views/producto/archivos/Anual_Reygrass_414033.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 10:20:16 America/Mexico_City] PHP Warning:  Missing argument 4 for Directivas::editor_texto(), called in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 71 and defined in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 15
+[23-Jan-2018 10:20:16 America/Mexico_City] PHP Notice:  Undefined variable: columnas in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 22
+[23-Jan-2018 10:20:17 America/Mexico_City] PHP Warning:  Missing argument 4 for Directivas::editor_texto(), called in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 71 and defined in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 15
+[23-Jan-2018 10:20:17 America/Mexico_City] PHP Notice:  Undefined variable: columnas in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 22
+[23-Jan-2018 10:20:17 America/Mexico_City] PHP Warning:  Missing argument 4 for Directivas::editor_texto(), called in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 71 and defined in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 15
+[23-Jan-2018 10:20:17 America/Mexico_City] PHP Notice:  Undefined variable: columnas in /home/tdesyxwd/public_html/bcagro/sistema/views/directivas/directivas.php on line 22
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:44 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:44 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 11:52:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 13:28:10 America/Mexico_City] PHP Fatal error:  Class 'controlador_imagen_producto' not found in /home/tdesyxwd/public_html/bcagro/sistema/index.php on line 40
+[23-Jan-2018 13:29:11 America/Mexico_City] PHP Fatal error:  Class 'imagen_producto' not found in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 28
+[23-Jan-2018 13:29:41 America/Mexico_City] PHP Notice:  Undefined index: imagen_producto in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[23-Jan-2018 13:29:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[23-Jan-2018 13:36:47 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736207.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:36:47 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprHPYKR' to '/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736207.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:38:01 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736281.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:38:01 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZNzxZX' to '/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736281.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:40:17 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736417.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:40:17 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpydOzNI' to '/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736417.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:42:40 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736560.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 13:42:40 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1C6arK' to '/home/tdesyxwd/public_html/bcagro/sistema/views/imagen_producto/archivos/1516736560.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:29 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:29 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:32 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:32 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:35 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:35 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:45 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:45 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[23-Jan-2018 16:35:46 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[23-Jan-2018 16:35:46 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 204
+[23-Jan-2018 16:35:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:23:47 America/Mexico_City] PHP Fatal error:  Class 'controlador_cliente' not found in /home/tdesyxwd/public_html/bcagro/sistema/index.php on line 40
+[13-Feb-2018 16:25:19 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:25:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:26:51 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:26:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:26:55 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:26:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:26:59 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:26:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:27:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:28:51 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:28:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:29:17 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:29:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:30:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:30:25 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:30:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:32:13 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:32:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:34:25 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:34:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:34:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:45:55 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:45:59 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:45:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:46:54 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:46:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:46:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 21
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 22
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 224
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 226
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:47:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:48:00 America/Mexico_City] PHP Notice:  Undefined index: cliente in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 109
+[13-Feb-2018 16:48:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 110
+[13-Feb-2018 16:50:45 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:50:45 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:50:45 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:51:26 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:51:26 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:51:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:53:04 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518562384.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 16:53:04 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0zGtjn' to '/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518562384.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 16:53:04 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:53:04 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:53:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:53:33 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:53:33 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:53:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:54:07 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:54:07 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:54:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:55:09 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:55:09 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:55:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:57:18 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:57:18 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:57:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 16:57:23 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 16:57:23 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 16:57:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:00:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:00:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:00:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:03:36 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:03:36 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:03:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:08:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:08:03 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:08:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:09:37 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:09:37 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:09:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:10:27 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:10:27 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:10:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:10:31 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:10:31 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:10:31 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:13:05 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518563585.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:13:05 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVwhET5' to '/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518563585.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:36:34 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518564994.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:36:34 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpch5ilF' to '/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518564994.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:36:35 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:36:35 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:36:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:39:58 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:39:58 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:39:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:43:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[13-Feb-2018 17:43:15 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 193
+[13-Feb-2018 17:43:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[13-Feb-2018 17:46:29 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518565589.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:46:29 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1EnbJN' to '/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518565589.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:47:01 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518565621.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:47:01 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpENxD08' to '/home/tdesyxwd/public_html/bcagro/sistema/views/alianza/archivos/1518565621.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:47:30 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518565650.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[13-Feb-2018 17:47:30 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppKlMCl' to '/home/tdesyxwd/public_html/bcagro/sistema/views/cliente/archivos/1518565650.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[14-Feb-2018 08:17:50 America/Mexico_City] PHP Fatal error:  Class 'controlador_ficha_tecnica_producto' not found in /home/tdesyxwd/public_html/bcagro/sistema/index.php on line 40
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 08:55:45 America/Mexico_City] PHP Notice:  Undefined property: consultas_base::$ficha_tecnica_columnas in /home/tdesyxwd/public_html/bcagro/sistema/consultas_base.php on line 215
+[14-Feb-2018 09:02:04 America/Mexico_City] PHP Warning:  move_uploaded_file(/home/tdesyxwd/public_html/bcagro/sistema/views/ficha_tecnica_producto/archivos/1518620524.png): failed to open stream: No such file or directory in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[14-Feb-2018 09:02:04 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJcePfY' to '/home/tdesyxwd/public_html/bcagro/sistema/views/ficha_tecnica_producto/archivos/1518620524.png' in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 64
+[14-Feb-2018 12:11:52 America/Mexico_City] PHP Fatal error:  Class 'consultas_base' not found in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 20
+[14-Feb-2018 12:12:16 America/Mexico_City] PHP Fatal error:  Class 'Modelos' not found in /home/tdesyxwd/public_html/bcagro/sistema/modelo_sobrecargado.php on line 2
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:22 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:22 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:23 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:23 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 12:32:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:48 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:48 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/tdesyxwd/public_html/bcagro/sistema/modelos.php on line 102
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Notice:  Undefined index: registros in /home/tdesyxwd/public_html/bcagro/sistema/controladores/controlador_base.php on line 203
+[15-Feb-2018 13:25:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/tdesyxwd/public_html/bcagro/sistema/views/templates.php on line 338
